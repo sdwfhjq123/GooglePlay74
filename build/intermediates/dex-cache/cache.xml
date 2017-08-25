@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/452e099e8a75989d07a6a6939a398892ba83e563/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_539bb53358c38484d5c8115d805a0f552986e2b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/78798e9241a05d546acf90a0b18c76651af7c16d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a03ff51a2627195f66d53ed63bf91d1cf45cfe77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/508ac0db40277a3196783acaee1a1b27857cde18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f723eded499b2949b6d23af789049870b5df4ef4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/1a5c0f922c2b3f7690abab7c057b1d9a9e313c70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bbaff58260edddef34bc56d08d5509efa148cd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d28b8be49fd889fe032cddc98f19de1f0f156bf1">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_efd6a14c63e1850e197d04f87fd5ff0db56f957e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/3f5a20b85197602f0b99ac190beeeace1aa71425/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9d17687f55cf67d22a74676b7015f9a6062acb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9c65431f76522cfe3c6f57af70ac346b0dcd40f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/88cd329041feaa2ea33f49003fed13841572485a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3371e326e53767c5c429ac5ee0eecdfec517afe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/b94948d0d3dae3c808c06c1bbc96ce436b4b2366/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_240dca7057909a50e057e45d9cc3a09549d2be1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/89b756185692c9a92c513f116aa7613f43af99e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3fe01adad4b6cb1b899d86957fbcab470244f06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d1a5a0478d88b452c01ae92adbf0a77eb5c662cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/dda2a2ea53250b1794b2e15783257fe5e734eb98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f7032d16215b86197583b57015e83479a39ca20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_243ad4b883d0c4477082a2e951ced4a23c7aec51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yinhao/.android/build-cache/f1dde797e6124d3f9450b81fa398198287e5d1ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/yinhao/AndroidStudioProjects/GooglePlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8d5c6f11e417255d60c59a03a669934bb065f4a/classes.dex" />
+    </item>
+
+</items>
